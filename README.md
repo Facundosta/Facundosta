@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science Integrative Project1 - M0**
 
-- 🌱 I’m currently learning **Advanced Machine Learning · Apache Spark · Data Engineering fundamentals**
+- 🌱 I’m currently learning **Machine Learning · Apache Spark · Data Engineering fundamentals**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Data Visualization and Business Analytics Projects**
 
