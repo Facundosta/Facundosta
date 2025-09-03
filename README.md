@@ -13,17 +13,13 @@
 
 - 🤝 I’m looking for help with **Predictive model optimization and MLOps best practices**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Facundosta))
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/facundo-acosta-marketing/](https://www.linkedin.com/in/facundo-acosta-marketing/)
+- 👨‍💻 All of my projects are available at ([GitHub](https://github.com/Facundosta))
 
 - 💬 Ask me about **Strategic marketing · Data-Driven Decision Making**
 
 - 📫 How to reach me **facundoacostast@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/facundo-acosta-marketing/](https://www.linkedin.com/in/facundo-acosta-marketing/)
-
-- ⚡ Fun fact **I read for 50 minutes every day and do calisthenics while fasting 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
