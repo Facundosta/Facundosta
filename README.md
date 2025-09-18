@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facundosta" alt="facundosta" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Integrative Project1 - M0**
+- 🔭 I’m currently working on **Data Science Integrative Project2 - M2**
 
 - 🌱 I’m currently learning **Machine Learning · Apache Spark · Data Engineering fundamentals**
 
